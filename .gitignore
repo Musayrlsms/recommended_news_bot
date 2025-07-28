@@ -1,0 +1,16 @@
+# Sanal ortam klasörleri
+venv/
+venv310/
+
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE ve sistem dosyaları
+.DS_Store
+*.log
+
+# Kişisel yapılandırmalar
+.env
